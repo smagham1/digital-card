@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
     return (
         <>
-        <img className='profileImg' src='./images/Profile.jpg' alt='ProfileImage' />
+        <img className='profileImg' src='./images/11.jpg' alt='ProfileImage' />
         </>
     )
 }
